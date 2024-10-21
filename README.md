@@ -1,5 +1,4 @@
 - Hi, I’m @DanielJMyung
-- I’m interested in machine learning
 - I’m currently learning about data structures and algorithms
 - I’m looking to collaborate on both fun or professional projects
 - How to reach me dmyung@umich.edu
