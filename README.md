@@ -1,5 +1,5 @@
 - Hi, I’m @DanielJMyung
-- I’m currently learning about data structures and algorithms
+- I’m currently learning about Data Base Management Systems
 - I’m looking to collaborate on both fun or professional projects
 - How to reach me dmyung@umich.edu
 - Pronouns: He/Him
