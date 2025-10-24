@@ -1,6 +1,6 @@
 - Hi, I’m @DanielJMyung
-- I’m currently learning about Data Base Management Systems
-- I’m looking to collaborate on both fun or professional projects
+- I’m currently learning about Machine Learning
+- I’m looking to collaborate on health or stock market related projects
 - How to reach me dmyung@umich.edu
 - Pronouns: He/Him
 
